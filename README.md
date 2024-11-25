@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Simon Gomes
 
-<!--
-**simongcs/simongcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ Senior Software Engineer with 8+ years of experience.
+- 🌐 Skilled in Node.js, TypeScript, Python, PostgreSQL, MongoDB, AWS, and Kubernetes.
+- 🛠️ Passionate about building scalable applications and exploring modern technologies.
+- 📚 Always learning, currently diving deeper into Go and CLI tools.
+- 🌳 Lover of nature, reading, finance and solving challenging problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### **1. Finance Manager App**
+A personal finance management tool to track expenses, income, and group splits.
+- **Tech Stack:** Python, FastAPI, PostgreSQL, SQLModel, Hexagonal Architecture
+
+### **2. DailyTrends API**
+A web scraping-based API delivering daily news feeds in JSON format.
+- **Tech Stack:** TypeScript, Node.js, MongoDB, Jest, Web Scraping
+
+### **3. File Organizer CLI**
+A command-line tool for macOS to organize files by type, size, or category with automation options.
+- **Tech Stack:** Go
+
+---
+
+📫 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/simongcs)  
+- [GitHub](https://github.com/simongcs) (you’re already here!)
