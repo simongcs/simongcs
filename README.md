@@ -24,6 +24,17 @@ A command-line tool for macOS to organize files by type, size, or category with 
 
 ---
 
+## 📄 **About Me**
+
+- [📝 View my Full CV](./cv.md)
+- [🛠️ Languages, Frameworks, and Tools](./skills.md)
+
+---
+
+
 📫 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/simongcs)  
 - [GitHub](https://github.com/simongcs) (you’re already here!)
+
+
+Thanks for visiting my profile! 😊
