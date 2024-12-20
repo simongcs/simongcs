@@ -46,9 +46,21 @@
 - React
 - Vuejs
 
-### **Tools & Methodologies**
+### **Methodologies and Architectures**
+- Agile: Scrum([Certified](./certificates/scrum.pdf)), Kanban, SAFE.
+- TDD
+- Hexagonal Architecture
+- Microservices Architecture
+- Event-Driven Architecture
+- MVC
+
+
+### **Systems and Tools**
+- Linux
+- MacOc
+- Windows
+- Bash Scripting
 - Version control: Git, Github, Gitlab, Bitbucket
-- Agile: Scrum(Certified), Kanban, SAFE.
 - RabbitMQ
 - **Python**
   - Asyncio
