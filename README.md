@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Simon Gomes
 
 - 🖥️ Senior Software Engineer with 8+ years of experience.
-- 🌐 Skilled in Node.js, TypeScript, Python, PostgreSQL, MongoDB, AWS, and Kubernetes.
+- 🌐 Skilled in Node.js, TypeScript, Python, Golang, PostgreSQL, MongoDB, AWS, and Kubernetes.
 - 🛠️ Passionate about building scalable applications and exploring modern technologies.
 - 📚 Always learning, currently diving deeper into Golang and CLI tools.
 - 🌳 Lover of nature, reading, finance and solving challenging problems.
