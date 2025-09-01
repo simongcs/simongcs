@@ -17,8 +17,8 @@
 ### **Databases**
 - MongoDB
 - PostgreSQL
-- Sqlite
-- Mysql
+- SQLite
+- MySQL
 - Redis
 
 ### **Cloud & DevOps**
@@ -44,7 +44,7 @@
 
 ### **Frontend**
 - React
-- Vuejs
+- Vue.js
 
 ### **Methodologies and Architectures**
 - Agile: Scrum([Certified](./certificates/scrum.pdf)), Kanban, SAFE.
@@ -57,7 +57,7 @@
 
 ### **Systems and Tools**
 - Linux
-- MacOc
+- macOS
 - Windows
 - Bash Scripting
 - Version control: Git, Github, Gitlab, Bitbucket
@@ -73,12 +73,12 @@
   - PyMongo
   - Psycopg2
   - Pytest
- - **Nodejs**
+ - **Node.js**
    - Mocha
    - Chai
    - Jest
    - Bun
-   - Sequealize
+   - Sequelize
    - Mongoose
    - Supertest
    - GraphQL

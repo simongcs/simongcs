@@ -56,7 +56,7 @@ Senior Software Engineer with 8+ years of experience specializing in distributed
 
 ### **Languages**
 
-- **🇪🇸Spanish:** Native  
+- **🇪🇸 Spanish:** Native  
 - [**🇺🇸English:** Advanced](./certificates/english-ef.pdf)
 - **🇵🇹Portuguese:** Basic  
 
@@ -118,7 +118,7 @@ Senior Software Engineer with 8+ years of experience specializing in distributed
 
 ### **Senior Software Developer**  
 **Fz Sports, Santiago, Chile**  
-*May 2020 – Jun. 2021*
+*May. 2020 – Jun. 2021*
 
 - Launched comprehensive testing strategy achieving 90% coverage, minimizing production issues.
 - Established automated CI/CD workflow with Bitbucket and AWS, accelerating deployments by 30%.
@@ -129,7 +129,7 @@ Senior Software Engineer with 8+ years of experience specializing in distributed
 
 ### **Head of Software Development and Technology**  
 **Unabase Ltda, Santiago, Chile**  
-*May 2017 – May 2020*
+*May. 2017 – May. 2020*
 
 - Designed microservices architecture using Node.js, Vue.js, and MongoDB, tripling revenue and system capacity.
 - Executed full-scale infrastructure migration from GCP to AWS, optimizing costs and performance by ~20%.
