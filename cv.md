@@ -65,6 +65,18 @@ Senior Software Engineer with 8+ years of experience specializing in distributed
 ## 🚀 **Career History**
 
 ### **Senior Software Developer**  
+**Hiberus/BSH, Remote**  
+*Jan. 2024 – Present*
+
+- Developed middleware for payment service providers supporting BSH (Bosch and Siemens) global e-commerce operations.
+- Built internal configuration tools for managing payment providers across multiple markets.
+- Achieved 80%+ test coverage and successfully integrated new payment provider systems.
+- Engineered reconciliation solution bridging payment provider reports with finance systems.  
+- **Tech Stack:** AWS Lambda, Cognito, S3, DynamoDB, Serverless Framework, React, Vite, TanStack, TypeScript, Docker
+
+---
+
+### **Senior Software Developer**  
 **American Century Investment - Globant, Santiago, Chile**  
 *Mar. 2024 – Oct. 2024*
 
