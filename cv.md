@@ -66,7 +66,7 @@ Senior Software Engineer with 8+ years of experience specializing in distributed
 
 ### **Senior Software Developer**  
 **American Century Investment - Globant, Santiago, Chile**  
-*Mar. 2024 – Present*
+*Mar. 2024 – Oct. 2024*
 
 - Architected and executed migration of legacy Java services to Node.js and Python, resulting in 30% faster processing times.
 - Set up comprehensive test suite achieving 90% coverage across critical systems.  
